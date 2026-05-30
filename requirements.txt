@@ -1,0 +1,4 @@
+boto3>=1.28
+aiohttp>=3.8
+google-cloud-monitoring>=2.16; extra == "gcp"
+azure-mgmt-monitor>=6.0; extra == "azure"
